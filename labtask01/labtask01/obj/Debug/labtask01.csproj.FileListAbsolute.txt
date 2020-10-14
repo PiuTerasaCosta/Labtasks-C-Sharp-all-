@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\labtask01\labtask01\bin\Debug\labtask01.exe.config
+C:\Users\ASUS\Desktop\C#\labtask01\labtask01\bin\Debug\labtask01.exe
+C:\Users\ASUS\Desktop\C#\labtask01\labtask01\bin\Debug\labtask01.pdb
+C:\Users\ASUS\Desktop\C#\labtask01\labtask01\obj\Debug\labtask01.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\labtask01\labtask01\obj\Debug\labtask01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\labtask01\labtask01\obj\Debug\labtask01.exe
+C:\Users\ASUS\Desktop\C#\labtask01\labtask01\obj\Debug\labtask01.pdb
