@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\labtask03\labtask03\obj\Debug\labtask03.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\labtask03\labtask03\obj\Debug\labtask03.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\labtask03\labtask03\bin\Debug\labtask03.exe.config
+C:\Users\ASUS\source\repos\labtask03\labtask03\bin\Debug\labtask03.exe
+C:\Users\ASUS\source\repos\labtask03\labtask03\bin\Debug\labtask03.pdb
+C:\Users\ASUS\source\repos\labtask03\labtask03\obj\Debug\labtask03.exe
+C:\Users\ASUS\source\repos\labtask03\labtask03\obj\Debug\labtask03.pdb
