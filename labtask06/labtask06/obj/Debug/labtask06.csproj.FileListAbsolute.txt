@@ -1,0 +1,2 @@
+C:\Users\ASUS\Desktop\C#\labtask06\labtask06\obj\Debug\labtask06.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\labtask06\labtask06\obj\Debug\labtask06.csproj.CoreCompileInputs.cache

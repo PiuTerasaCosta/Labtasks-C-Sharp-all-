@@ -8,59 +8,52 @@ namespace labtask06
 {
     class Library
     {
-         String libName;
-
-        public String LibName
-        {​​​​
-            get {​​​​ return libName; }​​​​
-            set {​​​​ libName = value; }​​​​
-        }​​​​
- 
-         String libAddress;
-
-        public String LibAddress
-        {​​​​
-            get {​​​​ return libAddress; }​​​​
-            set {​​​​ libAddress = value; }​​​​
-        }​​​​
-        Book[] listofbook;
-        int bookcount = 0;
-
-         int totalBook;
-
-        public int TotalBook
-        {​​​​
-            get {​​​​ return totalBook; }​​​​
-            set {​​​​ totalBook = value; }​​​​
-        }​​​​
-         public Library()
+        Book b;
+        String libName;
+        String libAddress;
+        String[] listOfBook;
+        int totalBook;
+        public Library()
+        { }
+        public Library(String ln, String la, String[] lb, int tb)
         {
-
+            libName = ln;
+            libAddress = la;
+            listOfBook = lb;
+            totalBook = tb;
         }
-        public Library(string libName, string libAddress,  int totalBook)
+
+        void ShowLibInfo() 
         {
-            this.libName= libName;
-           
-            this.libAddress= libAddress;
-            this.totalBook= totalBook;
-            
-
+            Console.WriteLine("Library name: " + libName);
+            Console.WriteLine("Library Address: " + libAddress);
+            Console.WriteLine("Library List of Book: " + listOfBook);
+            Console.WriteLine("Total Book: " + totalBook);
         }
-        public void ShowInfo()
-        {​​​​
-            Console.WriteLine("Library Name :" + libName);
-            Console.WriteLine("Library Address:" + libAddress);
-            Console.WriteLine("Total Book:" + totalBook);
-
-        }​​​​
-        public void ShowAllBooks()
-        {​​​​
-            for (int i = 0; i < bookcount; i++)
-            {​​​​
-                Console.WriteLine(i);
-            }​​​​
-        }​​​​
- 
+        void ShowAllBooks() 
+        {
+            Console.WriteLine("All Books are: ");
+            b.ShowInfo();
+        }
+        public void Showallinfo()
+        {
+            ShowAllBooks();
+            ShowLibInfo();
+        }
+        void AddNewBook(Book book)
+        {
+            listOfBook[totalBook + 1] += book;
+            totalBook++;
+        }
+        void DeleteBook(Book book) 
+        {
+            totalBook--;
+        }
+        void AddNewBookCopy(Book book, int copy)
+        {
+            listOfBook[totalBook + 1] += book;
+            totalBook++;
+        }
     }​​​​
-    }
-}
+ }
+
