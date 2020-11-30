@@ -1,0 +1,2 @@
+C:\Users\ASUS\Desktop\C#\arraylist_task\arraylist_task\obj\Debug\arraylist_task.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\arraylist_task\arraylist_task\obj\Debug\arraylist_task.csproj.CoreCompileInputs.cache
