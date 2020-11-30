@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\lab08task03\lab08task03\bin\Debug\lab08task03.exe.config
+C:\Users\ASUS\Desktop\C#\lab08task03\lab08task03\bin\Debug\lab08task03.exe
+C:\Users\ASUS\Desktop\C#\lab08task03\lab08task03\bin\Debug\lab08task03.pdb
+C:\Users\ASUS\Desktop\C#\lab08task03\lab08task03\obj\Debug\lab08task03.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\lab08task03\lab08task03\obj\Debug\lab08task03.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\lab08task03\lab08task03\obj\Debug\lab08task03.exe
+C:\Users\ASUS\Desktop\C#\lab08task03\lab08task03\obj\Debug\lab08task03.pdb
