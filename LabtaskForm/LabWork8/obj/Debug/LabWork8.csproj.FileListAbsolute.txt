@@ -1,0 +1,13 @@
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabWork8\bin\Debug\LabWork8.exe.config
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabWork8\bin\Debug\LabWork8.exe
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabWork8\bin\Debug\LabWork8.pdb
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabWork8\obj\Debug\LabWork8.csprojAssemblyReference.cache
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabWork8\obj\Debug\LabWork8.Login.resources
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabWork8\obj\Debug\LabWork8.Properties.Resources.resources
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabWork8\obj\Debug\LabWork8.csproj.GenerateResource.cache
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabWork8\obj\Debug\LabWork8.csproj.CoreCompileInputs.cache
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabWork8\obj\Debug\LabWork8.exe
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabWork8\obj\Debug\LabWork8.pdb
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabWork8\obj\Debug\LabWork8.Dashbord.resources
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabWork8\obj\Debug\LabWork8.Form1.resources
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabWork8\obj\Debug\LabWork8.Dashbord2.resources
